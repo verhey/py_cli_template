@@ -23,7 +23,7 @@ If someday I do, I will cut this over to be a cookiecutter project instead.
 
 ## Prerequisites
 
-* Python 3.8.0 or higher
+* Python 3.6.0-3.9.0
 * Git
 
 ## Structure
